@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=TestKernel by Anoosragh A R
+kernel.string=Meteora Kernel by Anoosragh A R
 do.devicecheck=1
 do.modules=0
 do.systemless=1
